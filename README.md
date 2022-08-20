@@ -1,1 +1,1 @@
-# exe02-level02
+# exe02-level02-explorer
